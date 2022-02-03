@@ -1,5 +1,5 @@
 provider "aws" {
-  profile = "default"
+  profile = "cloudresidency"
   region = "us-west-2"
 }
 
